@@ -1,8 +1,8 @@
-# SQL Learning Guide **🐾🚀 Learning notes for sql via chatGPT**
+# SQL Learning Guide **🚀 Learning notes for sql via chatGPT**
 
 ## Overview
 
-This guide provides a comprehensive overview of essential SQL topics with explanations and examples to help you become proficient in SQL programming with ChatGPT.
+This guide provides a comprehensive overview of essential SQL topics with explanations and examples to help you become proficient in SQL programming with ChatGPT 🐾.
 
 ## Table of Contents
 
